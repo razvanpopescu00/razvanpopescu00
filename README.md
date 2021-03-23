@@ -5,7 +5,16 @@
 #### ⚡ Passioante about sustainable development, innovation and ways in which technological development can make a positive impact.
 #### 😄 Pronouns: He/Him
 
-####
+##### 📫 How to reach me:
+
+[![alt text][1.1]][1]
+
+[1.1]: https://user-images.githubusercontent.com/57840345/112166343-7285a700-8be7-11eb-8689-f3d27061c961.png (LinkedIn icon with padding)
+
+[1]: https://www.linkedin.com/in/razvanmihaipopescu/
+
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!--
 **razvanpopescu00/razvanpopescu00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
