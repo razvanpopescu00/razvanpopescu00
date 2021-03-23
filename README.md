@@ -1,9 +1,11 @@
-## 👋 Hi there! I'm Razvan, an undergraduate in Computer Science at the University of Manchester :computer:
+## 👋 Hi! I'm Razvan, an undergraduate in Computer Science at the University of Manchester :computer:
 
-#### I am an ambitious and driven second-year student actively working towards making a positive change in the world.
-#### I am eager to combine my passion for technology, social change and sustainable development to have a meaningful impact in the society. 
-#
-#### I'm currently looking for a year-long placement as part of my uni course. 
+#### 💬 I am an ambitious and driven second-year student actively working towards making a positive change in the world. I am eager to combine my passion for technology, social change and sustainable development to have a meaningful impact in the society. 
+#### 👀 I'm currently looking for a year-long placement as part of my uni course.
+#### ⚡ Passioante about sustainable development, innovation and ways in which technological development can make a positive impact.
+#### 😄 Pronouns: He/Him
+
+####
 
 <!--
 **razvanpopescu00/razvanpopescu00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
