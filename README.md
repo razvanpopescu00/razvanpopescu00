@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## I'm Razvan, an undergraduate in Computer Science at the University of Manchester :computer:
+
+#### I am an ambitious and driven second-year student actively working towards making a positive change in the world.
+#### I am eager to combine my passion for technology, social change and sustainable development to have a meaningful impact in the society. 
+
 <!--
 **razvanpopescu00/razvanpopescu00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
