@@ -4,8 +4,7 @@
 #### 👀 I'm currently looking for a year-long placement as part of my uni course.
 #### ⚡ Passioante about sustainable development, innovation and ways in which technological development can make a positive impact.
 #### 😄 Pronouns: He/Him
-
-##### 📫 How to reach me:
+#### 📫 How to reach me:
 
 [![alt text][1.1]][1]
 
